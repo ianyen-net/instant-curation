@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="art_layer">
+<path id="bg_circle" fill-rule="evenodd" clip-rule="evenodd" d="M22 44C34.1503 44 44 34.1503 44 22C44 9.84974 34.1503 0 22 0C9.84974 0 0 9.84974 0 22C0 34.1503 9.84974 44 22 44Z" fill="#1A73E8"/>
+<path id="body_shadow" fill-rule="evenodd" clip-rule="evenodd" d="M29.25 33H15C13.2725 33 11.75 31.9575 11.75 30.25V31.5C11.75 33.2075 13.2725 34.5 15 34.5H29.25C30.9775 34.5 32.5 33.2075 32.5 31.5V30.25C32.5 31.9575 30.9775 33 29.25 33Z" fill="#185ABC"/>
+<path id="head_shadow" fill-rule="evenodd" clip-rule="evenodd" d="M22 20C19.42 19.9875 17.39 18.205 17.25 15.75V16.75C17.25 19.295 19.3775 21.5 22 21.5C24.6225 21.5 26.75 19.295 26.75 16.75V15.75C26.5475 18.2275 24.5825 20.0125 22 20Z" fill="#185ABC"/>
+<g id="subject">
+<path id="body" fill-rule="evenodd" clip-rule="evenodd" d="M22 23C16.9825 23 11.75 25.445 11.75 28.75V30.25C11.75 31.955 13.15 33.25 14.8775 33.25H29.3725C31.1 33.25 32.5 31.955 32.5 30.25V28.75C32.5 25.445 27.0175 23 22 23Z" fill="white"/>
+<path id="head" fill-rule="evenodd" clip-rule="evenodd" d="M22 20.25C24.6234 20.25 26.75 18.1234 26.75 15.5C26.75 12.8766 24.6234 10.75 22 10.75C19.3766 10.75 17.25 12.8766 17.25 15.5C17.25 18.1234 19.3766 20.25 22 20.25Z" fill="white"/>
+</g>
+</g>
+</svg>
